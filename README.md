@@ -1,3 +1,3 @@
 # oficialbotillo
-Bot de chistes de gordilo en disc  😏😕💅🏻💪🏻:smile:
+👮‍♂️ Bot de chistes de gordilo en disc 👮‍♂️ 
 
