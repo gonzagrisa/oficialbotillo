@@ -1,3 +1,2 @@
 # oficialbotillo
-
-PEDAZO DE NATI
+Bot de chistes de gordilo en disc  😏😕💅🏻💪🏻
