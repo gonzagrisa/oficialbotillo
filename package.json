@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/gonzagrisa/oficialbotillo#readme",
   "dependencies": {
-    "discord.js": "^13.5.1"
+    "discord.js": "^13.5.1",
+    "dotenv": "^11.0.0"
   }
 }
